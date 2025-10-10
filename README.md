@@ -1,9 +1,9 @@
 
 
-<h1 align="center" Sergio Rego Criado </h1>
+<h1 align="center"> Sergio Rego Criado </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+welcome!;Aspiring+Computer+Engineer;Motorsport+Enthusiast&size=30&color=0FEEFA&center=tºrue&vCenter=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+welcome!+👋;Aspiring+Computer+Engineer;Motorsport+Enthusiast🏎️&size=30&color=0FEEFA&center=tºrue&vCenter=true">
 </h1>S
 
 <div align="center">
