@@ -20,6 +20,8 @@ I enjoy exploring data telemetry, working on motorsport projects, experimenting 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="20" alt="OCaml logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="20" alt="Erlang logo"/>
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python logo"/>
 </div>
 
 ## Stats:
