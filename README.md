@@ -35,9 +35,6 @@ I enjoy exploring data telemetry, working on motorsport projects, experimenting 
 ## Social Media:
 
 <div aling="left">
-<a href="https://x.com/srego29" target="_blank">
-    <img alt="x logo" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ffff&link=https%3A%2F%2Fx.com%2Fsrego29">
-</a>
  <br>
 <a href="https://www.instagram.com/srego29" target="_blank">
     <img alt="instagram logo" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ffff">
